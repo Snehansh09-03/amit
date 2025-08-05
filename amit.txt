@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 # Hi how is the learnng of git going?
 #Hi this is my second question?
+=======
+>>>>>>> parent of 75ad3ee (Made 1st chnage)
