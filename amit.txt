@@ -3,3 +3,5 @@
 #Hi this is my second question?
 =======
 >>>>>>> parent of 75ad3ee (Made 1st chnage)
+
+#Its irritating while reverting as it always shows merge conflict
